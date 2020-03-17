@@ -1,0 +1,2923 @@
+{
+    "01IO012T2": [
+        "Discipline of Fortitude",
+        3,
+        "Ionia",
+        []
+    ],
+    "01NX020T3": [
+        "Draven",
+        3,
+        "Noxus",
+        [
+            "01NX020T1",
+            "01NX020T2",
+            "01NX020"
+        ]
+    ],
+    "01DE031": [
+        "Dawnspeakers",
+        3,
+        "Demacia",
+        []
+    ],
+    "01IO048T1": [
+        "Yusari the Slayer",
+        3,
+        "Ionia",
+        []
+    ],
+    "01PZ040T3": [
+        "Jinx's Get Excited!",
+        3,
+        "PiltoverZaun",
+        [
+            "01PZ040",
+            "01PZ040T1"
+        ]
+    ],
+    "01FR024T2": [
+        "Glacial Storm",
+        0,
+        "Freljord",
+        [
+            "01FR024",
+            "01FR024T3"
+        ]
+    ],
+    "01PZ008T2": [
+        "Teemo",
+        1,
+        "PiltoverZaun",
+        [
+            "01PZ022",
+            "01PZ008",
+            "01PZ008T1"
+        ]
+    ],
+    "01DE022": [
+        "Lucian",
+        2,
+        "Demacia",
+        [
+            "01DE038",
+            "01DE022T1",
+            "01DE022T2"
+        ]
+    ],
+    "01IO015T1": [
+        "Yasuo",
+        4,
+        "Ionia",
+        [
+            "01IO015T2",
+            "01IO015"
+        ]
+    ],
+    "01PZ056": [
+        "Heimerdinger",
+        5,
+        "PiltoverZaun",
+        [
+            "01PZ056T10",
+            "01PZ056T3",
+            "01PZ056T1",
+            "01PZ056T4",
+            "01PZ056T7",
+            "01PZ056T6",
+            "01PZ056T8",
+            "01PZ056T2",
+            "01PZ056T9",
+            "01PZ056T5",
+            "01PZ015"
+        ]
+    ],
+    "01IO020": [
+        "Keeper of Masks",
+        2,
+        "Ionia",
+        []
+    ],
+    "01FR039T1": [
+        "Tryndamere's Battle Fury",
+        8,
+        "Freljord",
+        [
+            "01FR039",
+            "01FR039T2"
+        ]
+    ],
+    "01PZ013": [
+        "Augmented Experimenter",
+        6,
+        "PiltoverZaun",
+        [
+            "01PZ013T1"
+        ]
+    ],
+    "01DE019": [
+        "Mobilize",
+        3,
+        "Demacia",
+        []
+    ],
+    "01NX004": [
+        "Culling Strike",
+        3,
+        "Noxus",
+        []
+    ],
+    "01PZ007": [
+        "Parade Electrorig",
+        3,
+        "PiltoverZaun",
+        []
+    ],
+    "01PZ056T10": [
+        "Heimerdinger",
+        5,
+        "PiltoverZaun",
+        [
+            "01PZ056T3",
+            "01PZ056T1",
+            "01PZ056T4",
+            "01PZ056T7",
+            "01PZ056T6",
+            "01PZ056T8",
+            "01PZ056T2",
+            "01PZ056T9",
+            "01PZ056T5",
+            "01PZ015",
+            "01PZ056"
+        ]
+    ],
+    "01SI038": [
+        "Phantom Prankster",
+        3,
+        "ShadowIsles",
+        []
+    ],
+    "01DE042T1": [
+        "Lux's Prismatic Barrier",
+        3,
+        "Demacia",
+        [
+            "01DE042",
+            "01DE042T2"
+        ]
+    ],
+    "01PZ018": [
+        "Academy Prodigy",
+        2,
+        "PiltoverZaun",
+        []
+    ],
+    "01IO045": [
+        "Herald of Spring",
+        2,
+        "Ionia",
+        []
+    ],
+    "01IO008": [
+        "Fae Bladetwirler",
+        2,
+        "Ionia",
+        []
+    ],
+    "01NX048": [
+        "Crimson Curator",
+        3,
+        "Noxus",
+        []
+    ],
+    "01FR006": [
+        "Iceborn Legacy",
+        3,
+        "Freljord",
+        []
+    ],
+    "01IO022": [
+        "Ghost",
+        1,
+        "Ionia",
+        []
+    ],
+    "01FR022": [
+        "Omen Hawk",
+        1,
+        "Freljord",
+        []
+    ],
+    "01FR042": [
+        "Harsh Winds",
+        6,
+        "Freljord",
+        []
+    ],
+    "01SI049": [
+        "Glimpse Beyond",
+        2,
+        "ShadowIsles",
+        []
+    ],
+    "01SI053T1": [
+        "Elise's Crawling Sensation",
+        1,
+        "ShadowIsles",
+        [
+            "01SI002",
+            "01SI053",
+            "01SI053T2"
+        ]
+    ],
+    "01FR009": [
+        "Braum",
+        3,
+        "Freljord",
+        [
+            "01FR009T1",
+            "01FR009T2",
+            "01FR053"
+        ]
+    ],
+    "01SI057": [
+        "Ancient Crocolith",
+        4,
+        "ShadowIsles",
+        []
+    ],
+    "01DE010": [
+        "Swiftwing Lancer",
+        5,
+        "Demacia",
+        []
+    ],
+    "01SI023": [
+        "Soul Shepherd",
+        2,
+        "ShadowIsles",
+        []
+    ],
+    "01PZ019": [
+        "Eager Apprentice",
+        2,
+        "PiltoverZaun",
+        []
+    ],
+    "01NX038": [
+        "Darius",
+        6,
+        "Noxus",
+        [
+            "01NX038T2",
+            "01NX038T1"
+        ]
+    ],
+    "01IO040": [
+        "Kinkou Lifeblade",
+        4,
+        "Ionia",
+        []
+    ],
+    "01FR018": [
+        "Rimefang Wolf",
+        3,
+        "Freljord",
+        []
+    ],
+    "01DE020": [
+        "Vanguard Defender",
+        2,
+        "Demacia",
+        []
+    ],
+    "01DE034": [
+        "Battlesmith",
+        2,
+        "Demacia",
+        []
+    ],
+    "01DE002": [
+        "Tianna Crownguard",
+        8,
+        "Demacia",
+        []
+    ],
+    "01NX023": [
+        "Arachnoid Host",
+        5,
+        "Noxus",
+        []
+    ],
+    "01IO041T1": [
+        "Karma",
+        5,
+        "Ionia",
+        [
+            "01IO041",
+            "01IO041T2"
+        ]
+    ],
+    "01DE012T1": [
+        "Garen",
+        5,
+        "Demacia",
+        [
+            "01DE012T2",
+            "01DE012"
+        ]
+    ],
+    "01DE017": [
+        "Stand Alone",
+        3,
+        "Demacia",
+        []
+    ],
+    "01PZ040": [
+        "Jinx",
+        4,
+        "PiltoverZaun",
+        [
+            "01PZ040T2",
+            "01PZ040T1",
+            "01PZ040T3"
+        ]
+    ],
+    "01NX013": [
+        "Decisive Maneuver",
+        5,
+        "Noxus",
+        []
+    ],
+    "01DE045": [
+        "Fiora",
+        3,
+        "Demacia",
+        [
+            "01DE045T1",
+            "01DE045T2"
+        ]
+    ],
+    "01PZ025": [
+        "Puffcap Peddler",
+        3,
+        "PiltoverZaun",
+        [
+            "01PZ022"
+        ]
+    ],
+    "01DE052": [
+        "Brightsteel Formation",
+        9,
+        "Demacia",
+        []
+    ],
+    "01PZ040T2": [
+        "Super Mega Death Rocket!",
+        2,
+        "PiltoverZaun",
+        [
+            "01PZ040T1"
+        ]
+    ],
+    "01SI053": [
+        "Elise",
+        2,
+        "ShadowIsles",
+        [
+            "01SI002",
+            "01SI053T2",
+            "01SI053T1"
+        ]
+    ],
+    "01DE021": [
+        "Relentless Pursuit",
+        3,
+        "Demacia",
+        []
+    ],
+    "01PZ048T1": [
+        "Magnum Opus",
+        0,
+        "PiltoverZaun",
+        []
+    ],
+    "01NX046T1": [
+        "Paralyzing Bite",
+        0,
+        "Noxus",
+        []
+    ],
+    "01NX047": [
+        "Transfusion",
+        2,
+        "Noxus",
+        []
+    ],
+    "01SI010": [
+        "Onslaught of Shadows",
+        3,
+        "ShadowIsles",
+        [
+            "01SI024"
+        ]
+    ],
+    "01NX040": [
+        "Legion Saboteur",
+        1,
+        "Noxus",
+        [
+            "01NX040T1"
+        ]
+    ],
+    "01SI042T1": [
+        "Hecarim",
+        6,
+        "ShadowIsles",
+        [
+            "01SI024",
+            "01SI042",
+            "01SI042T2"
+        ]
+    ],
+    "01PZ032": [
+        "Scrap Scuttler",
+        1,
+        "PiltoverZaun",
+        []
+    ],
+    "01IO009T2": [
+        "Zed",
+        3,
+        "Ionia",
+        [
+            "01IO009T1",
+            "01IO009",
+            "01IO009T3"
+        ]
+    ],
+    "01SI027T1": [
+        "Vilemaw",
+        3,
+        "ShadowIsles",
+        []
+    ],
+    "01IO014": [
+        "Greenglade Elder",
+        3,
+        "Ionia",
+        []
+    ],
+    "01NX038T2": [
+        "Darius",
+        6,
+        "Noxus",
+        [
+            "01NX038",
+            "01NX038T1"
+        ]
+    ],
+    "01DE022T2": [
+        "Lucian's Relentless Pursuit",
+        3,
+        "Demacia",
+        [
+            "01DE022",
+            "01DE022T1"
+        ]
+    ],
+    "01PZ028": [
+        "Jury-Rig",
+        1,
+        "PiltoverZaun",
+        [
+            "01PZ032"
+        ]
+    ],
+    "01DE025": [
+        "Detain",
+        5,
+        "Demacia",
+        []
+    ],
+    "01FR036": [
+        "Avarosan Marksman",
+        3,
+        "Freljord",
+        [
+            "01FR036T1"
+        ]
+    ],
+    "01IO005": [
+        "Nimble Poro",
+        1,
+        "Ionia",
+        []
+    ],
+    "01FR045": [
+        "Scarthane Steffen",
+        3,
+        "Freljord",
+        []
+    ],
+    "01IO044": [
+        "Navori Conspirator",
+        2,
+        "Ionia",
+        []
+    ],
+    "01FR008T1": [
+        "Jubilant Poro",
+        1,
+        "Freljord",
+        [
+            "01FR008"
+        ]
+    ],
+    "01FR055": [
+        "Shatter",
+        2,
+        "Freljord",
+        []
+    ],
+    "01FR038T3": [
+        "Crystal Arrow",
+        2,
+        "Freljord",
+        []
+    ],
+    "01NX046": [
+        "Arachnoid Sentry",
+        3,
+        "Noxus",
+        [
+            "01NX046T1"
+        ]
+    ],
+    "01PZ050": [
+        "Rising Spell Force",
+        3,
+        "PiltoverZaun",
+        []
+    ],
+    "01PZ056T6": [
+        "Mk3: Floor-B-Gone",
+        3,
+        "PiltoverZaun",
+        []
+    ],
+    "01IO023": [
+        "Jeweled Protector",
+        5,
+        "Ionia",
+        []
+    ],
+    "01SI048": [
+        "Cursed Keeper",
+        2,
+        "ShadowIsles",
+        [
+            "01SI048T1"
+        ]
+    ],
+    "01PZ054T1": [
+        "Undermine",
+        0,
+        "PiltoverZaun",
+        []
+    ],
+    "01PZ030T1": [
+        "Impersonate",
+        0,
+        "PiltoverZaun",
+        []
+    ],
+    "01NX025": [
+        "Brothers' Bond",
+        2,
+        "Noxus",
+        []
+    ],
+    "01NX055": [
+        "House Spider",
+        2,
+        "Noxus",
+        [
+            "01SI002"
+        ]
+    ],
+    "01DE007": [
+        "Judgment",
+        8,
+        "Demacia",
+        []
+    ],
+    "01PZ017": [
+        "Used Cask Salesman",
+        3,
+        "PiltoverZaun",
+        [
+            "01PZ047"
+        ]
+    ],
+    "01PZ038": [
+        "Sump Dredger",
+        2,
+        "PiltoverZaun",
+        []
+    ],
+    "01PZ056T7": [
+        "Mk2: Evolution Turret",
+        2,
+        "PiltoverZaun",
+        []
+    ],
+    "01SI018": [
+        "Scribe of Sorrows",
+        3,
+        "ShadowIsles",
+        []
+    ],
+    "01PZ008T1": [
+        "Teemo's Mushroom Cloud",
+        1,
+        "PiltoverZaun",
+        [
+            "01PZ022",
+            "01PZ008",
+            "01PZ008T2"
+        ]
+    ],
+    "01SI030T2": [
+        "Kalista",
+        3,
+        "ShadowIsles",
+        [
+            "01SI030T1",
+            "01SI030"
+        ]
+    ],
+    "01FR029": [
+        "Entreat",
+        2,
+        "Freljord",
+        []
+    ],
+    "01SI035T1": [
+        "Night Harvest",
+        0,
+        "ShadowIsles",
+        []
+    ],
+    "01SI030": [
+        "Kalista",
+        3,
+        "ShadowIsles",
+        [
+            "01SI030T2",
+            "01SI030T1"
+        ]
+    ],
+    "01IO029": [
+        "Sown Seeds",
+        2,
+        "Ionia",
+        []
+    ],
+    "01PZ036T1": [
+        "Ezreal",
+        3,
+        "PiltoverZaun",
+        [
+            "01PZ052",
+            "01PZ036",
+            "01PZ036T2"
+        ]
+    ],
+    "01FR035": [
+        "Unscarred Reaver",
+        1,
+        "Freljord",
+        []
+    ],
+    "01IO003": [
+        "Death Mark",
+        3,
+        "Ionia",
+        []
+    ],
+    "01PZ035": [
+        "Jae Medarda",
+        8,
+        "PiltoverZaun",
+        []
+    ],
+    "01PZ030": [
+        "Shady Character",
+        4,
+        "PiltoverZaun",
+        [
+            "01PZ030T1"
+        ]
+    ],
+    "01IO047": [
+        "Shadow Flare",
+        6,
+        "Ionia",
+        []
+    ],
+    "01PZ048": [
+        "Corina Veraza",
+        9,
+        "PiltoverZaun",
+        [
+            "01PZ048T1"
+        ]
+    ],
+    "01FR012": [
+        "Catalyst of Aeons",
+        4,
+        "Freljord",
+        []
+    ],
+    "01NX020T2": [
+        "Draven's Whirling Death",
+        3,
+        "Noxus",
+        [
+            "01NX020",
+            "01NX020T3"
+        ]
+    ],
+    "01NX030": [
+        "Crimson Disciple",
+        2,
+        "Noxus",
+        []
+    ],
+    "01FR028": [
+        "Enraged Yeti",
+        1,
+        "Freljord",
+        []
+    ],
+    "01PZ010": [
+        "Mushroom Cloud",
+        1,
+        "PiltoverZaun",
+        [
+            "01PZ022"
+        ]
+    ],
+    "01NX007": [
+        "Arena Battlecaster",
+        2,
+        "Noxus",
+        []
+    ],
+    "01PZ045": [
+        "Zaunite Urchin",
+        1,
+        "PiltoverZaun",
+        []
+    ],
+    "01IO026": [
+        "Inspiring Mentor",
+        1,
+        "Ionia",
+        []
+    ],
+    "01PZ013T1": [
+        "Reckless Research",
+        0,
+        "PiltoverZaun",
+        []
+    ],
+    "01PZ002": [
+        "Back Alley Barkeep",
+        4,
+        "PiltoverZaun",
+        [
+            "01PZ002"
+        ]
+    ],
+    "01SI002": [
+        "Spiderling",
+        1,
+        "ShadowIsles",
+        []
+    ],
+    "01SI005": [
+        "Scuttlegeist",
+        10,
+        "ShadowIsles",
+        []
+    ],
+    "01FR038": [
+        "Ashe",
+        4,
+        "Freljord",
+        [
+            "01FR038T2",
+            "01FR038T1",
+            "01FR038T3"
+        ]
+    ],
+    "01DE055": [
+        "Laurent Duelist",
+        3,
+        "Demacia",
+        []
+    ],
+    "01PZ004": [
+        "Trueshot Barrage",
+        7,
+        "PiltoverZaun",
+        []
+    ],
+    "01DE048": [
+        "Mageseeker Inciter",
+        4,
+        "Demacia",
+        []
+    ],
+    "01IO024": [
+        "Dawn and Dusk",
+        6,
+        "Ionia",
+        []
+    ],
+    "01SI053T2": [
+        "Spider Queen Elise",
+        2,
+        "ShadowIsles",
+        [
+            "01SI053T1",
+            "01SI053"
+        ]
+    ],
+    "01DE001": [
+        "Vanguard Bannerman",
+        4,
+        "Demacia",
+        []
+    ],
+    "01PZ020": [
+        "Daring Poro",
+        1,
+        "PiltoverZaun",
+        []
+    ],
+    "01NX021": [
+        "Legion Marauder",
+        3,
+        "Noxus",
+        []
+    ],
+    "01FR020": [
+        "Avalanche",
+        4,
+        "Freljord",
+        []
+    ],
+    "01PZ046": [
+        "Counterfeit Copies",
+        1,
+        "PiltoverZaun",
+        []
+    ],
+    "01IO028": [
+        "Scaled Snapper",
+        3,
+        "Ionia",
+        []
+    ],
+    "01FR014": [
+        "Yeti Yearling",
+        1,
+        "Freljord",
+        [
+            "01FR028"
+        ]
+    ],
+    "01SI037": [
+        "Sinister Poro",
+        1,
+        "ShadowIsles",
+        []
+    ],
+    "01NX009": [
+        "Crowd Favorite",
+        4,
+        "Noxus",
+        []
+    ],
+    "01IO057": [
+        "Shadow Assassin",
+        3,
+        "Ionia",
+        []
+    ],
+    "01IO028T2": [
+        "Scaled Snapper",
+        3,
+        "Ionia",
+        []
+    ],
+    "01PZ054": [
+        "Boomcrew Rookie",
+        2,
+        "PiltoverZaun",
+        [
+            "01PZ054T1"
+        ]
+    ],
+    "01NX020": [
+        "Draven",
+        3,
+        "Noxus",
+        [
+            "01NX020T1",
+            "01NX020T3",
+            "01NX020T2"
+        ]
+    ],
+    "01PZ052": [
+        "Mystic Shot",
+        2,
+        "PiltoverZaun",
+        []
+    ],
+    "01FR024T1": [
+        "Anivia's Harsh Winds",
+        6,
+        "Freljord",
+        [
+            "01FR024",
+            "01FR024T3",
+            "01FR024T4"
+        ]
+    ],
+    "01DE043": [
+        "War Chefs",
+        2,
+        "Demacia",
+        []
+    ],
+    "01PZ036": [
+        "Ezreal",
+        3,
+        "PiltoverZaun",
+        [
+            "01PZ052",
+            "01PZ036T1",
+            "01PZ036T2"
+        ]
+    ],
+    "01IO028T1": [
+        "Scaled Snapper",
+        3,
+        "Ionia",
+        []
+    ],
+    "01SI048T1": [
+        "Escaped Abomination",
+        2,
+        "ShadowIsles",
+        []
+    ],
+    "01PZ015": [
+        "T-Hex",
+        8,
+        "PiltoverZaun",
+        []
+    ],
+    "01NX053": [
+        "Reckoning",
+        6,
+        "Noxus",
+        []
+    ],
+    "01PZ005": [
+        "Hextech Transmogulator",
+        6,
+        "PiltoverZaun",
+        []
+    ],
+    "01NX038T1": [
+        "Darius's Decimate",
+        5,
+        "Noxus",
+        [
+            "01NX038",
+            "01NX038T2"
+        ]
+    ],
+    "01SI052": [
+        "Thresh",
+        5,
+        "ShadowIsles",
+        [
+            "01SI052T1",
+            "01SI052T2"
+        ]
+    ],
+    "01DE022T1": [
+        "Lucian",
+        2,
+        "Demacia",
+        [
+            "01DE022T2",
+            "01DE022"
+        ]
+    ],
+    "01DE049": [
+        "Plucky Poro",
+        1,
+        "Demacia",
+        []
+    ],
+    "01DE012T2": [
+        "Garen's Judgment",
+        8,
+        "Demacia",
+        [
+            "01DE012",
+            "01DE012T1"
+        ]
+    ],
+    "01SI033": [
+        "Commander Ledros",
+        8,
+        "ShadowIsles",
+        [
+            "01SI033T1"
+        ]
+    ],
+    "01PZ021": [
+        "Midenstokke Henchmen",
+        5,
+        "PiltoverZaun",
+        []
+    ],
+    "01SI003": [
+        "The Harrowing",
+        10,
+        "ShadowIsles",
+        []
+    ],
+    "01SI041": [
+        "The Undying",
+        3,
+        "ShadowIsles",
+        []
+    ],
+    "01NX040T1": [
+        "Sabotage",
+        0,
+        "Noxus",
+        []
+    ],
+    "01FR049": [
+        "Stalking Wolf",
+        2,
+        "Freljord",
+        [
+            "01FR049T1"
+        ]
+    ],
+    "01IO032T1": [
+        "Shen",
+        4,
+        "Ionia",
+        [
+            "01IO032T2",
+            "01IO032"
+        ]
+    ],
+    "01DE053": [
+        "Laurent Chevalier",
+        4,
+        "Demacia",
+        []
+    ],
+    "01SI045": [
+        "Absorb Soul",
+        1,
+        "ShadowIsles",
+        []
+    ],
+    "01FR037": [
+        "Avarosan Outriders",
+        4,
+        "Freljord",
+        []
+    ],
+    "01SI036": [
+        "Crawling Sensation",
+        1,
+        "ShadowIsles",
+        [
+            "01SI002"
+        ]
+    ],
+    "01FR009T1": [
+        "Braum",
+        3,
+        "Freljord",
+        [
+            "01FR053",
+            "01FR009T2",
+            "01FR009"
+        ]
+    ],
+    "01IO013": [
+        "Shadow Fiend",
+        1,
+        "Ionia",
+        []
+    ],
+    "01PZ031": [
+        "Statikk Shock",
+        4,
+        "PiltoverZaun",
+        []
+    ],
+    "01SI024": [
+        "Spectral Rider",
+        2,
+        "ShadowIsles",
+        []
+    ],
+    "01SI051": [
+        "Tortured Prodigy",
+        5,
+        "ShadowIsles",
+        []
+    ],
+    "01FR026": [
+        "Alpha Wildclaw",
+        6,
+        "Freljord",
+        []
+    ],
+    "01NX054": [
+        "Intimidating Roar",
+        5,
+        "Noxus",
+        []
+    ],
+    "01NX006T2": [
+        "Crimson Pact",
+        0,
+        "Noxus",
+        [
+            "01NX006"
+        ]
+    ],
+    "01PZ059": [
+        "Golden Crushbot",
+        3,
+        "PiltoverZaun",
+        []
+    ],
+    "01NX029": [
+        "Legion Veteran",
+        4,
+        "Noxus",
+        []
+    ],
+    "01FR030": [
+        "Brittle Steel",
+        1,
+        "Freljord",
+        []
+    ],
+    "01NX014": [
+        "Shiraza the Blade",
+        4,
+        "Noxus",
+        []
+    ],
+    "01SI012": [
+        "Oblivious Islander",
+        1,
+        "ShadowIsles",
+        []
+    ],
+    "01SI052T2": [
+        "Thresh's The Box",
+        4,
+        "ShadowIsles",
+        [
+            "01SI052",
+            "01SI052T1"
+        ]
+    ],
+    "01PZ001": [
+        "Rummage",
+        1,
+        "PiltoverZaun",
+        []
+    ],
+    "01NX042T2": [
+        "Katarina",
+        4,
+        "Noxus",
+        [
+            "01NX042",
+            "01NX042T1"
+        ]
+    ],
+    "01FR013": [
+        "Scarmother Vrynna",
+        6,
+        "Freljord",
+        []
+    ],
+    "01PZ057": [
+        "Scrapdash Assembly",
+        2,
+        "PiltoverZaun",
+        [
+            "01PZ032"
+        ]
+    ],
+    "01SI031": [
+        "Iron Harbinger",
+        3,
+        "ShadowIsles",
+        []
+    ],
+    "01SI034": [
+        "Black Spear",
+        2,
+        "ShadowIsles",
+        []
+    ],
+    "01SI043": [
+        "Hapless Aristocrat",
+        1,
+        "ShadowIsles",
+        [
+            "01SI002"
+        ]
+    ],
+    "01IO018": [
+        "Rush",
+        1,
+        "Ionia",
+        []
+    ],
+    "01PZ056T3": [
+        "Heimerdinger's Progress Day!",
+        8,
+        "PiltoverZaun",
+        [
+            "01PZ056",
+            "01PZ056T10"
+        ]
+    ],
+    "01FR019": [
+        "Winter's Breath",
+        7,
+        "Freljord",
+        []
+    ],
+    "01DE033": [
+        "Remembrance",
+        6,
+        "Demacia",
+        []
+    ],
+    "01SI009": [
+        "Stirred Spirits",
+        2,
+        "ShadowIsles",
+        []
+    ],
+    "01PZ027": [
+        "Thermogenic Beam",
+        0,
+        "PiltoverZaun",
+        []
+    ],
+    "01DE045T1": [
+        "Fiora",
+        3,
+        "Demacia",
+        [
+            "01DE045T2",
+            "01DE045"
+        ]
+    ],
+    "01FR041": [
+        "Avarosan Hearthguard",
+        5,
+        "Freljord",
+        []
+    ],
+    "01NX051": [
+        "Captain Farron",
+        8,
+        "Noxus",
+        [
+            "01NX002"
+        ]
+    ],
+    "01FR025": [
+        "Poro Herder",
+        4,
+        "Freljord",
+        []
+    ],
+    "01DE042T2": [
+        "Lux",
+        6,
+        "Demacia",
+        [
+            "01DE042T3",
+            "01DE042T1",
+            "01DE042"
+        ]
+    ],
+    "01NX012": [
+        "Legion Rearguard",
+        1,
+        "Noxus",
+        []
+    ],
+    "01DE024": [
+        "Mageseeker Conservator",
+        1,
+        "Demacia",
+        []
+    ],
+    "01SI007T1": [
+        "Unleashed Spirit",
+        1,
+        "ShadowIsles",
+        []
+    ],
+    "01DE046": [
+        "Border Lookout",
+        2,
+        "Demacia",
+        []
+    ],
+    "01DE056": [
+        "Vanguard Firstblade",
+        4,
+        "Demacia",
+        []
+    ],
+    "01NX043": [
+        "Blade's Edge",
+        1,
+        "Noxus",
+        []
+    ],
+    "01DE030": [
+        "Silverwing Scout",
+        4,
+        "Demacia",
+        []
+    ],
+    "01IO056T1": [
+        "Staggering Strikes",
+        0,
+        "Ionia",
+        []
+    ],
+    "01SI030T1": [
+        "Kalista's Black Spear",
+        2,
+        "ShadowIsles",
+        [
+            "01SI030",
+            "01SI030T2"
+        ]
+    ],
+    "01NX037": [
+        "Legion Grenadier",
+        2,
+        "Noxus",
+        []
+    ],
+    "01NX002": [
+        "Decimate",
+        5,
+        "Noxus",
+        []
+    ],
+    "01IO016": [
+        "Zephyr Sage",
+        6,
+        "Ionia",
+        []
+    ],
+    "01SI056": [
+        "Frenzied Skitterer",
+        3,
+        "ShadowIsles",
+        []
+    ],
+    "01NX010": [
+        "Legion General",
+        5,
+        "Noxus",
+        []
+    ],
+    "01NX017": [
+        "Legion Drummer",
+        2,
+        "Noxus",
+        []
+    ],
+    "01DE004": [
+        "Silverwing Vanguard",
+        4,
+        "Demacia",
+        [
+            "01DE004"
+        ]
+    ],
+    "01SI001": [
+        "Vengeance",
+        7,
+        "ShadowIsles",
+        []
+    ],
+    "01DE011": [
+        "Laurent Protege",
+        3,
+        "Demacia",
+        []
+    ],
+    "01IO036": [
+        "Greenglade Lookout",
+        2,
+        "Ionia",
+        []
+    ],
+    "01PZ055": [
+        "Astute Academic",
+        1,
+        "PiltoverZaun",
+        []
+    ],
+    "01PZ008": [
+        "Teemo",
+        1,
+        "PiltoverZaun",
+        [
+            "01PZ022",
+            "01PZ008T2",
+            "01PZ008T1"
+        ]
+    ],
+    "01PZ056T2": [
+        "Mk5: Rocket Blaster",
+        5,
+        "PiltoverZaun",
+        []
+    ],
+    "01PZ014": [
+        "Unlicensed Innovation",
+        6,
+        "PiltoverZaun",
+        [
+            "01PZ014T1"
+        ]
+    ],
+    "01DE047": [
+        "Succession",
+        3,
+        "Demacia",
+        [
+            "01DE016"
+        ]
+    ],
+    "01NX003": [
+        "Arena Bookie",
+        3,
+        "Noxus",
+        []
+    ],
+    "01NX011": [
+        "Whirling Death",
+        3,
+        "Noxus",
+        []
+    ],
+    "01FR054": [
+        "Scarmaiden Reaver",
+        5,
+        "Freljord",
+        []
+    ],
+    "01DE050": [
+        "Purify",
+        2,
+        "Demacia",
+        []
+    ],
+    "01FR021T1": [
+        "Tarkaz's Fury",
+        0,
+        "Freljord",
+        []
+    ],
+    "01FR043": [
+        "Heart of the Fluft",
+        6,
+        "Freljord",
+        [
+            "01FR043T1"
+        ]
+    ],
+    "01FR049T1": [
+        "Snow Hare",
+        1,
+        "Freljord",
+        []
+    ],
+    "01FR033": [
+        "Wyrding Stones",
+        3,
+        "Freljord",
+        []
+    ],
+    "01SI019": [
+        "The Box",
+        4,
+        "ShadowIsles",
+        []
+    ],
+    "01DE042T3": [
+        "Final Spark",
+        0,
+        "Demacia",
+        []
+    ],
+    "01IO033": [
+        "Minah Swiftfoot",
+        9,
+        "Ionia",
+        [
+            "01IO033T1"
+        ]
+    ],
+    "01NX039": [
+        "Vision",
+        3,
+        "Noxus",
+        []
+    ],
+    "01FR011": [
+        "Icevale Archer",
+        2,
+        "Freljord",
+        []
+    ],
+    "01PZ034": [
+        "Sumpsnipe Scavenger",
+        4,
+        "PiltoverZaun",
+        [
+            "01PZ026"
+        ]
+    ],
+    "01FR004": [
+        "Elixir of Iron",
+        1,
+        "Freljord",
+        []
+    ],
+    "01FR050": [
+        "Kindly Tavernkeeper",
+        3,
+        "Freljord",
+        []
+    ],
+    "01PZ014T1": [
+        "Illegal Contraption",
+        6,
+        "PiltoverZaun",
+        []
+    ],
+    "01NX041": [
+        "Trifarian Shieldbreaker",
+        5,
+        "Noxus",
+        []
+    ],
+    "01FR039T2": [
+        "Tryndamere",
+        8,
+        "Freljord",
+        [
+            "01FR039T1",
+            "01FR039"
+        ]
+    ],
+    "01FR038T2": [
+        "Ashe",
+        4,
+        "Freljord",
+        [
+            "01FR038T3",
+            "01FR038T1",
+            "01FR038"
+        ]
+    ],
+    "01PZ060": [
+        "Accelerated Purrsuit",
+        5,
+        "PiltoverZaun",
+        [
+            "01PZ033T1"
+        ]
+    ],
+    "01IO015": [
+        "Yasuo",
+        4,
+        "Ionia",
+        [
+            "01IO015T1",
+            "01IO015T2"
+        ]
+    ],
+    "01IO001": [
+        "Ritual of Renewal",
+        7,
+        "Ionia",
+        []
+    ],
+    "01DE016": [
+        "Dauntless Vanguard",
+        3,
+        "Demacia",
+        []
+    ],
+    "01IO010": [
+        "Stand United",
+        6,
+        "Ionia",
+        []
+    ],
+    "01IO012": [
+        "Twin Disciplines",
+        3,
+        "Ionia",
+        []
+    ],
+    "01FR052T1": [
+        "Balesight",
+        0,
+        "Freljord",
+        []
+    ],
+    "01DE040": [
+        "Mageseeker Persuader",
+        6,
+        "Demacia",
+        []
+    ],
+    "01NX036": [
+        "Minotaur Reckoner",
+        6,
+        "Noxus",
+        []
+    ],
+    "01NX044": [
+        "Battering Ram",
+        6,
+        "Noxus",
+        []
+    ],
+    "01DE036": [
+        "Vanguard Squire",
+        4,
+        "Demacia",
+        []
+    ],
+    "01SI011": [
+        "Ravenous Butcher",
+        0,
+        "ShadowIsles",
+        []
+    ],
+    "01IO009T3": [
+        "Zed's Shadowshift",
+        3,
+        "Ionia",
+        [
+            "01IO009T1",
+            "01IO009",
+            "01IO009T2"
+        ]
+    ],
+    "01SI042T2": [
+        "Hecarim's Onslaught of Shadows",
+        3,
+        "ShadowIsles",
+        [
+            "01SI024",
+            "01SI042",
+            "01SI042T1"
+        ]
+    ],
+    "01DE037": [
+        "Riposte",
+        4,
+        "Demacia",
+        []
+    ],
+    "01PZ056T5": [
+        "Mk7: Armored Stomper",
+        7,
+        "PiltoverZaun",
+        []
+    ],
+    "01SI027": [
+        "Fresh Offerings",
+        3,
+        "ShadowIsles",
+        [
+            "01SI027T1"
+        ]
+    ],
+    "01PZ003": [
+        "Assembly Bot",
+        3,
+        "PiltoverZaun",
+        []
+    ],
+    "01IO021": [
+        "Windfarer Hatchling",
+        7,
+        "Ionia",
+        []
+    ],
+    "01FR016": [
+        "Poro Snax",
+        4,
+        "Freljord",
+        []
+    ],
+    "01NX005": [
+        "Crimson Aristocrat",
+        2,
+        "Noxus",
+        []
+    ],
+    "01PZ040T1": [
+        "Jinx",
+        4,
+        "PiltoverZaun",
+        [
+            "01PZ040T2",
+            "01PZ040T3",
+            "01PZ040"
+        ]
+    ],
+    "01FR005": [
+        "Battle Fury",
+        8,
+        "Freljord",
+        []
+    ],
+    "01DE014": [
+        "Reinforcements",
+        8,
+        "Demacia",
+        [
+            "01DE016"
+        ]
+    ],
+    "01DE013": [
+        "Chain Vest",
+        1,
+        "Demacia",
+        []
+    ],
+    "01IO009": [
+        "Zed",
+        3,
+        "Ionia",
+        [
+            "01IO009T1",
+            "01IO009T2",
+            "01IO009T3"
+        ]
+    ],
+    "01NX042T1": [
+        "Katarina's Death Lotus",
+        2,
+        "Noxus",
+        [
+            "01NX042",
+            "01NX042T2"
+        ]
+    ],
+    "01NX016": [
+        "Trifarian Hopeful",
+        2,
+        "Noxus",
+        []
+    ],
+    "01FR009T2": [
+        "Braum's Take Heart",
+        3,
+        "Freljord",
+        [
+            "01FR009",
+            "01FR009T1"
+        ]
+    ],
+    "01SI014": [
+        "Mistwraith",
+        2,
+        "ShadowIsles",
+        []
+    ],
+    "01NX027": [
+        "Elixir of Wrath",
+        1,
+        "Noxus",
+        []
+    ],
+    "01IO027": [
+        "Silent Shadowseer",
+        2,
+        "Ionia",
+        []
+    ],
+    "01SI007": [
+        "Haunted Relic",
+        2,
+        "ShadowIsles",
+        [
+            "01SI007T1"
+        ]
+    ],
+    "01SI022": [
+        "Mark of the Isles",
+        1,
+        "ShadowIsles",
+        []
+    ],
+    "01IO032": [
+        "Shen",
+        4,
+        "Ionia",
+        [
+            "01IO032T1",
+            "01IO032T2"
+        ]
+    ],
+    "01NX015": [
+        "Precious Pet",
+        1,
+        "Noxus",
+        []
+    ],
+    "01SI054": [
+        "Grasp of the Undying",
+        5,
+        "ShadowIsles",
+        []
+    ],
+    "01PZ044": [
+        "Chempunk Shredder",
+        5,
+        "PiltoverZaun",
+        [
+            "01PZ044T2"
+        ]
+    ],
+    "01FR008": [
+        "Lonely Poro",
+        1,
+        "Freljord",
+        [
+            "01FR008T1"
+        ]
+    ],
+    "01IO041": [
+        "Karma",
+        5,
+        "Ionia",
+        [
+            "01IO041T1",
+            "01IO041T2"
+        ]
+    ],
+    "01SI006": [
+        "Possession",
+        5,
+        "ShadowIsles",
+        []
+    ],
+    "01DE015": [
+        "Radiant Guardian",
+        5,
+        "Demacia",
+        []
+    ],
+    "01PZ029": [
+        "Eminent Benefactor",
+        4,
+        "PiltoverZaun",
+        []
+    ],
+    "01NX050": [
+        "Death Lotus",
+        2,
+        "Noxus",
+        []
+    ],
+    "01PZ056T1": [
+        "Mk0: Windup Shredder",
+        0,
+        "PiltoverZaun",
+        []
+    ],
+    "01IO031": [
+        "Cloud Drinker",
+        6,
+        "Ionia",
+        []
+    ],
+    "01DE003": [
+        "Laurent Bladekeeper",
+        4,
+        "Demacia",
+        []
+    ],
+    "01FR023": [
+        "Warmother's Call",
+        12,
+        "Freljord",
+        []
+    ],
+    "01PZ033": [
+        "Purrsuit of Perfection",
+        5,
+        "PiltoverZaun",
+        [
+            "01PZ033T1"
+        ]
+    ],
+    "01SI033T1": [
+        "Blade of Ledros",
+        0,
+        "ShadowIsles",
+        [
+            "01SI033"
+        ]
+    ],
+    "01PZ051": [
+        "Funsmith",
+        5,
+        "PiltoverZaun",
+        []
+    ],
+    "01SI028": [
+        "Splinter Soul",
+        3,
+        "ShadowIsles",
+        []
+    ],
+    "01SI025": [
+        "Atrocity",
+        6,
+        "ShadowIsles",
+        []
+    ],
+    "01IO015T2": [
+        "Yasuo's Steel Tempest",
+        3,
+        "Ionia",
+        [
+            "01IO015",
+            "01IO015T1"
+        ]
+    ],
+    "01IO011": [
+        "Recall",
+        1,
+        "Ionia",
+        []
+    ],
+    "01IO009T1": [
+        "Living Shadow",
+        3,
+        "Ionia",
+        [
+            "01IO009"
+        ]
+    ],
+    "01IO002": [
+        "Will of Ionia",
+        4,
+        "Ionia",
+        []
+    ],
+    "01IO007T1": [
+        "Fatal Strike",
+        0,
+        "Ionia",
+        [
+            "01IO007"
+        ]
+    ],
+    "01FR047": [
+        "Feral Mystic",
+        2,
+        "Freljord",
+        []
+    ],
+    "01IO033T1": [
+        "Skyward Strikes",
+        0,
+        "Ionia",
+        []
+    ],
+    "01IO017": [
+        "Navori Bladescout",
+        1,
+        "Ionia",
+        []
+    ],
+    "01FR056": [
+        "Icy Yeti",
+        7,
+        "Freljord",
+        []
+    ],
+    "01NX056": [
+        "Shunpo",
+        5,
+        "Noxus",
+        []
+    ],
+    "01PZ022": [
+        "Poison Puffcap",
+        0,
+        "PiltoverZaun",
+        [
+            "01PZ008"
+        ]
+    ],
+    "01PZ044T2": [
+        "Face-Melter",
+        0,
+        "PiltoverZaun",
+        []
+    ],
+    "01SI046": [
+        "Mist's Call",
+        3,
+        "ShadowIsles",
+        []
+    ],
+    "01PZ033T1": [
+        "Cataclysm",
+        1,
+        "PiltoverZaun",
+        []
+    ],
+    "01NX033": [
+        "Trifarian Assessor",
+        4,
+        "Noxus",
+        []
+    ],
+    "01DE032": [
+        "Prismatic Barrier",
+        3,
+        "Demacia",
+        []
+    ],
+    "01NX006T1": [
+        "Vladimir",
+        5,
+        "Noxus",
+        [
+            "01NX006T2",
+            "01NX006",
+            "01NX006T3"
+        ]
+    ],
+    "01PZ023": [
+        "Professor von Yipp",
+        4,
+        "PiltoverZaun",
+        []
+    ],
+    "01PZ056T4": [
+        "Mk1: Wrenchbot",
+        1,
+        "PiltoverZaun",
+        []
+    ],
+    "01FR039": [
+        "Tryndamere",
+        8,
+        "Freljord",
+        [
+            "01FR039T2",
+            "01FR039T1"
+        ]
+    ],
+    "01FR027": [
+        "Bull Elnuk",
+        4,
+        "Freljord",
+        []
+    ],
+    "01SI050": [
+        "Brood Awakening",
+        6,
+        "ShadowIsles",
+        [
+            "01SI002"
+        ]
+    ],
+    "01FR057": [
+        "Pack Mentality",
+        7,
+        "Freljord",
+        []
+    ],
+    "01PZ024": [
+        "Unstable Voltician",
+        5,
+        "PiltoverZaun",
+        []
+    ],
+    "01SI016": [
+        "Wraithcaller",
+        4,
+        "ShadowIsles",
+        [
+            "01SI014"
+        ]
+    ],
+    "01IO042": [
+        "Sparring Student",
+        1,
+        "Ionia",
+        []
+    ],
+    "01FR038T1": [
+        "Ashe's Flash Freeze",
+        3,
+        "Freljord",
+        [
+            "01FR038",
+            "01FR038T2"
+        ]
+    ],
+    "01FR021": [
+        "Tarkaz the Tribeless",
+        5,
+        "Freljord",
+        [
+            "01FR021T1"
+        ]
+    ],
+    "01IO006": [
+        "Greenglade Duo",
+        2,
+        "Ionia",
+        []
+    ],
+    "01NX052": [
+        "Blood for Blood",
+        3,
+        "Noxus",
+        []
+    ],
+    "01IO050": [
+        "Kinkou Wayfinder",
+        4,
+        "Ionia",
+        []
+    ],
+    "01DE026": [
+        "Single Combat",
+        2,
+        "Demacia",
+        []
+    ],
+    "01NX042": [
+        "Katarina",
+        3,
+        "Noxus",
+        [
+            "01NX042T2",
+            "01NX042T1"
+        ]
+    ],
+    "01SI021": [
+        "Shark Chariot",
+        2,
+        "ShadowIsles",
+        []
+    ],
+    "01FR048": [
+        "Avarosan Trapper",
+        3,
+        "Freljord",
+        [
+            "01FR028"
+        ]
+    ],
+    "01PZ049": [
+        "Progress Day!",
+        8,
+        "PiltoverZaun",
+        []
+    ],
+    "01IO048": [
+        "Yusari",
+        5,
+        "Ionia",
+        []
+    ],
+    "01FR017": [
+        "Troop of Elnuks",
+        5,
+        "Freljord",
+        []
+    ],
+    "01IO004": [
+        "Health Potion",
+        1,
+        "Ionia",
+        []
+    ],
+    "01SI032": [
+        "Chronicler of Ruin",
+        4,
+        "ShadowIsles",
+        []
+    ],
+    "01PZ006": [
+        "Plaza Guardian",
+        10,
+        "PiltoverZaun",
+        []
+    ],
+    "01IO007": [
+        "Ren Shadowblade",
+        8,
+        "Ionia",
+        []
+    ],
+    "01FR024T3": [
+        "Anivia",
+        6,
+        "Freljord",
+        [
+            "01FR024T4",
+            "01FR024T1",
+            "01FR024",
+            "01FR024T5"
+        ]
+    ],
+    "01SI058": [
+        "Ethereal Remitter",
+        5,
+        "ShadowIsles",
+        []
+    ],
+    "01PZ053": [
+        "Clump of Whumps",
+        2,
+        "PiltoverZaun",
+        [
+            "01PZ010"
+        ]
+    ],
+    "01IO053": [
+        "Emerald Awakener",
+        3,
+        "Ionia",
+        []
+    ],
+    "01FR046": [
+        "Take Heart",
+        3,
+        "Freljord",
+        []
+    ],
+    "01NX045": [
+        "Savage Reckoner",
+        7,
+        "Noxus",
+        []
+    ],
+    "01DE027": [
+        "En Garde",
+        3,
+        "Demacia",
+        []
+    ],
+    "01SI044": [
+        "Spectral Matron",
+        8,
+        "ShadowIsles",
+        []
+    ],
+    "01FR040": [
+        "Rimetusk Shaman",
+        5,
+        "Freljord",
+        []
+    ],
+    "01IO049": [
+        "Deny",
+        3,
+        "Ionia",
+        []
+    ],
+    "01NX031": [
+        "Trifarian Gloryseeker",
+        2,
+        "Noxus",
+        []
+    ],
+    "01PZ012": [
+        "Flame Chompers!",
+        2,
+        "PiltoverZaun",
+        []
+    ],
+    "01FR031": [
+        "Ancient Yeti",
+        7,
+        "Freljord",
+        []
+    ],
+    "01DE006": [
+        "Vanguard Sergeant",
+        3,
+        "Demacia",
+        [
+            "01DE035"
+        ]
+    ],
+    "01FR036T1": [
+        "Bullseye",
+        0,
+        "Freljord",
+        []
+    ],
+    "01FR053": [
+        "Mighty Poro",
+        3,
+        "Freljord",
+        []
+    ],
+    "01IO052T1": [
+        "Navori Brigand",
+        2,
+        "Ionia",
+        []
+    ],
+    "01SI039": [
+        "Arachnoid Horror",
+        2,
+        "ShadowIsles",
+        []
+    ],
+    "01PZ039": [
+        "Get Excited!",
+        3,
+        "PiltoverZaun",
+        []
+    ],
+    "01PZ056T9": [
+        "Mk6: Stormlobber",
+        6,
+        "PiltoverZaun",
+        []
+    ],
+    "01DE038": [
+        "Senna, Sentinel of Light",
+        3,
+        "Demacia",
+        [
+            "01DE022",
+            "01DE022T1"
+        ]
+    ],
+    "01FR010": [
+        "Bloodsworn Pledge",
+        4,
+        "Freljord",
+        []
+    ],
+    "01IO052": [
+        "Navori Highwayman",
+        2,
+        "Ionia",
+        [
+            "01IO052T1"
+        ]
+    ],
+    "01IO030": [
+        "The Empyrean",
+        7,
+        "Ionia",
+        []
+    ],
+    "01DE041": [
+        "Back to Back",
+        5,
+        "Demacia",
+        []
+    ],
+    "01NX006": [
+        "Vladimir",
+        5,
+        "Noxus",
+        [
+            "01NX006T1",
+            "01NX006T2",
+            "01NX006T3"
+        ]
+    ],
+    "01PZ016": [
+        "Flash of Brilliance",
+        3,
+        "PiltoverZaun",
+        []
+    ],
+    "01PZ036T2": [
+        "Ezreal's Mystic Shot",
+        2,
+        "PiltoverZaun",
+        [
+            "01PZ036",
+            "01PZ036T1"
+        ]
+    ],
+    "01DE035": [
+        "For Demacia!",
+        6,
+        "Demacia",
+        []
+    ],
+    "01NX008": [
+        "Basilisk Rider",
+        4,
+        "Noxus",
+        []
+    ],
+    "01IO019": [
+        "Greenglade Caretaker",
+        1,
+        "Ionia",
+        []
+    ],
+    "01DE018": [
+        "Radiant Strike",
+        1,
+        "Demacia",
+        []
+    ],
+    "01IO054": [
+        "Insight of Ages",
+        2,
+        "Ionia",
+        [
+            "01IO054"
+        ]
+    ],
+    "01SI020": [
+        "The Rekindler",
+        6,
+        "ShadowIsles",
+        []
+    ],
+    "01FR001": [
+        "Flash Freeze",
+        3,
+        "Freljord",
+        []
+    ],
+    "01PZ058": [
+        "Chump Whump",
+        4,
+        "PiltoverZaun",
+        [
+            "01PZ010",
+            "01PZ022"
+        ]
+    ],
+    "01SI042": [
+        "Hecarim",
+        6,
+        "ShadowIsles",
+        [
+            "01SI024",
+            "01SI042T1",
+            "01SI042T2"
+        ]
+    ],
+    "01DE009": [
+        "Brightsteel Protector",
+        2,
+        "Demacia",
+        []
+    ],
+    "01SI029": [
+        "Withering Wail",
+        5,
+        "ShadowIsles",
+        []
+    ],
+    "01PZ009": [
+        "Amateur Aeronaut",
+        3,
+        "PiltoverZaun",
+        []
+    ],
+    "01IO032T2": [
+        "Shen's Stand United",
+        6,
+        "Ionia",
+        [
+            "01IO032",
+            "01IO032T1"
+        ]
+    ],
+    "01SI035": [
+        "Rhasa the Sunderer",
+        7,
+        "ShadowIsles",
+        [
+            "01SI035T1"
+        ]
+    ],
+    "01FR024": [
+        "Anivia",
+        6,
+        "Freljord",
+        [
+            "01FR024T3",
+            "01FR024T2",
+            "01FR024T4",
+            "01FR024T1"
+        ]
+    ],
+    "01NX034": [
+        "Affectionate Poro",
+        1,
+        "Noxus",
+        []
+    ],
+    "01PZ042": [
+        "Intrepid Mariner",
+        2,
+        "PiltoverZaun",
+        []
+    ],
+    "01DE042": [
+        "Lux",
+        6,
+        "Demacia",
+        [
+            "01DE042T2",
+            "01DE042T1",
+            "01DE042T3"
+        ]
+    ],
+    "01DE045T2": [
+        "Fiora's Riposte",
+        4,
+        "Demacia",
+        [
+            "01DE045",
+            "01DE045T1"
+        ]
+    ],
+    "01NX035": [
+        "Draven's Biggest Fan",
+        1,
+        "Noxus",
+        [
+            "01NX020"
+        ]
+    ],
+    "01FR024T5": [
+        "Glacial Storm",
+        0,
+        "Freljord",
+        [
+            "01FR024",
+            "01FR024T3"
+        ]
+    ],
+    "01NX026": [
+        "Reckless Trifarian",
+        3,
+        "Noxus",
+        []
+    ],
+    "01SI004": [
+        "Darkwater Scourge",
+        3,
+        "ShadowIsles",
+        []
+    ],
+    "01IO046": [
+        "Steel Tempest",
+        3,
+        "Ionia",
+        []
+    ],
+    "01DE039": [
+        "Cithria of Cloudfield",
+        1,
+        "Demacia",
+        []
+    ],
+    "01NX006T3": [
+        "Vladimir's Transfusion",
+        2,
+        "Noxus",
+        [
+            "01NX006",
+            "01NX006T1"
+        ]
+    ],
+    "01FR043T1": [
+        "Fluft of Poros",
+        5,
+        "Freljord",
+        [
+            "01FR043"
+        ]
+    ],
+    "01DE029": [
+        "Fleetfeather Tracker",
+        1,
+        "Demacia",
+        []
+    ],
+    "01IO037": [
+        "Spirit's Refuge",
+        4,
+        "Ionia",
+        []
+    ],
+    "01PZ056T8": [
+        "Mk4: Apex Turret",
+        4,
+        "PiltoverZaun",
+        []
+    ],
+    "01FR024T4": [
+        "Eggnivia",
+        1,
+        "Freljord",
+        [
+            "01FR024T3",
+            "01FR024",
+            "01FR024T1"
+        ]
+    ],
+    "01PZ026": [
+        "Sumpworks Map",
+        2,
+        "PiltoverZaun",
+        []
+    ],
+    "01NX019": [
+        "Might",
+        3,
+        "Noxus",
+        []
+    ],
+    "01DE028": [
+        "Vanguard Cavalry",
+        5,
+        "Demacia",
+        []
+    ],
+    "01IO043": [
+        "Rivershaper",
+        3,
+        "Ionia",
+        []
+    ],
+    "01PZ043": [
+        "Chempunk Pickpocket",
+        2,
+        "PiltoverZaun",
+        []
+    ],
+    "01FR032": [
+        "Starlit Seer",
+        2,
+        "Freljord",
+        []
+    ],
+    "01IO038": [
+        "Solitary Monk",
+        3,
+        "Ionia",
+        []
+    ],
+    "01FR052": [
+        "She Who Wanders",
+        10,
+        "Freljord",
+        [
+            "01FR052T1"
+        ]
+    ],
+    "01FR051": [
+        "Tall Tales",
+        3,
+        "Freljord",
+        [
+            "01FR028"
+        ]
+    ],
+    "01NX022": [
+        "Noxian Guillotine",
+        3,
+        "Noxus",
+        []
+    ],
+    "01PZ047": [
+        "Caustic Cask",
+        0,
+        "PiltoverZaun",
+        []
+    ],
+    "01SI026": [
+        "Warden's Prey",
+        1,
+        "ShadowIsles",
+        []
+    ],
+    "01IO012T1": [
+        "Discipline of Force",
+        3,
+        "Ionia",
+        []
+    ],
+    "01DE054": [
+        "Vanguard Redeemer",
+        3,
+        "Demacia",
+        []
+    ],
+    "01IO041T2": [
+        "Karma's Insight of Ages",
+        2,
+        "Ionia",
+        [
+            "01IO041",
+            "01IO041T1",
+            "01IO054"
+        ]
+    ],
+    "01IO039": [
+        "Shadowshift",
+        3,
+        "Ionia",
+        [
+            "01IO009T1"
+        ]
+    ],
+    "01NX032": [
+        "Crimson Awakener",
+        4,
+        "Noxus",
+        []
+    ],
+    "01DE023": [
+        "Mageseeker Investigator",
+        3,
+        "Demacia",
+        []
+    ],
+    "01NX024": [
+        "Kato The Arm",
+        5,
+        "Noxus",
+        []
+    ],
+    "01SI040": [
+        "Vile Feast",
+        2,
+        "ShadowIsles",
+        [
+            "01SI002"
+        ]
+    ],
+    "01FR034": [
+        "They Who Endure",
+        6,
+        "Freljord",
+        []
+    ],
+    "01DE051": [
+        "Cithria the Bold",
+        6,
+        "Demacia",
+        []
+    ],
+    "01IO056": [
+        "Yone, Windchaser",
+        7,
+        "Ionia",
+        [
+            "01IO056T1"
+        ]
+    ],
+    "01IO055": [
+        "Ki Guardian",
+        2,
+        "Ionia",
+        []
+    ],
+    "01DE044": [
+        "Redoubled Valor",
+        6,
+        "Demacia",
+        []
+    ],
+    "01SI015": [
+        "The Ruination",
+        9,
+        "ShadowIsles",
+        []
+    ],
+    "01SI052T1": [
+        "Thresh",
+        5,
+        "ShadowIsles",
+        [
+            "01SI052T2",
+            "01SI052"
+        ]
+    ],
+    "01NX049": [
+        "Guile",
+        1,
+        "Noxus",
+        []
+    ],
+    "01FR007": [
+        "Babbling Bjerg",
+        4,
+        "Freljord",
+        []
+    ],
+    "01DE012": [
+        "Garen",
+        5,
+        "Demacia",
+        [
+            "01DE012T1",
+            "01DE012T2"
+        ]
+    ],
+    "01NX020T1": [
+        "Spinning Axe",
+        0,
+        "Noxus",
+        [
+            "01NX020",
+            "01NX020T3"
+        ]
+    ],
+    "01FR003": [
+        "Avarosan Sentry",
+        2,
+        "Freljord",
+        []
+    ],
+    "01SI055": [
+        "Soulgorger",
+        6,
+        "ShadowIsles",
+        []
+    ],
+    "01SI047": [
+        "Fading Memories",
+        0,
+        "ShadowIsles",
+        []
+    ]
+}
